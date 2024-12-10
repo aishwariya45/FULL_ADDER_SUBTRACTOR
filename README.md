@@ -109,10 +109,11 @@ full subractor:
 
 **Output Timing Waveform**
 full adder:
-![Screenshot 2024-11-25 161804](https://github.com/user-attachments/assets/37e067a9-85b3-4072-ac9d-e2661764ea19)
-full subractor:
-![Screenshot 2024-11-26 105501](https://github.com/user-attachments/assets/1350b5a4-5860-487e-aa0f-e309a59f77d8)
+![Screenshot 2024-12-10 110747](https://github.com/user-attachments/assets/462fd463-f252-4aa7-bf85-1588f8729173)
 
+
+full subractor:
+![Screenshot 2024-12-10 111020](https://github.com/user-attachments/assets/06a99213-85d6-4854-9a73-72845eef7697)
 
 
 
