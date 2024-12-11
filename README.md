@@ -37,9 +37,11 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
-full adder:
+**full adder**
+
 ![image](https://github.com/user-attachments/assets/a9479f44-f58d-464b-9645-88e4ffbbd83d)
-full subractor:
+**full subractor**
+
 ![image](https://github.com/user-attachments/assets/dc5e153d-9efb-4212-8eca-efdd24ccac96)
 
 
@@ -58,7 +60,9 @@ full subractor:
 
 **Program:**
 ```
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by:aishwariya.s RegisterNumber:24900840
+ Developed by:aishwariya.s RegisterNumber:24900840
+FULL ADDER
+
 module exp4(sum, cout, a, b, cin);
     output sum;
     output cout;  // Corrected the name here
@@ -77,6 +81,8 @@ module exp4(sum, cout, a, b, cin);
     or(cout, c2, c1);  // Consistent with the output port name
 
 endmodule
+
+FULL SUBRACTOR
 
 module exp41(df, bo, a, b, bin);
     output df;
@@ -99,19 +105,23 @@ endmodule
 ```
 
 **RTL Schematic**
-full adder:
+**full adder**
+
 ![exp4](https://github.com/user-attachments/assets/811c5591-11ee-4c5d-badf-21fa14f8e09a)
-full subractor:
+**full subractor**
+
 ![exp4a](https://github.com/user-attachments/assets/7b151af5-2d4f-40c5-b8f9-add54dd81110)
 
 
 
 
 **Output Timing Waveform**
-full adder:
+**full adder**
+
 ![Screenshot 2024-12-10 111451](https://github.com/user-attachments/assets/e1162e6e-a36a-4676-b840-2a91901c066c)
 
-full subractor:
+**full subractor**
+
 ![Screenshot 2024-12-10 111625](https://github.com/user-attachments/assets/9452abc2-2c04-4d1b-a1f1-f05a06173681)
 
 
